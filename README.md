@@ -1,2 +1,2 @@
-# project-01
-my first project
+# as-01
+first assignment
